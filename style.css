@@ -1,0 +1,48 @@
+html {
+  box-sizing: border-box;
+  background-color: #d6e2f0;
+  font-family: 'Outfit';
+  font-size: 15px;
+}
+p,h2 {
+  margin:0;
+  padding:5px;
+  text-align: center;
+}
+h2 {
+  color:#1f3251;
+  margin-left:10px;
+  margin-right:10px;
+}
+body{
+  padding:20px; 
+}
+p{
+  font-size:1rem;
+  color:#7b879d;
+  margin-left:10px;
+  margin-right:10px;
+  margin-bottom:10px;
+  font-weight:400;
+  
+  
+}
+* , *:before, *after {
+  box-sizing:inherit;
+}
+#background {
+  width: 375px;
+  height: 667px;
+  
+}
+#card {
+  width: 317px;
+  height: 495px;
+  background-color:#ffffff;
+  border-radius:20px;
+  margin-top:60px;
+}
+img {
+  border-radius:10px;
+  margin:15px;
+}
