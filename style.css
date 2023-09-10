@@ -30,17 +30,13 @@ p{
 * , *:before, *after {
   box-sizing:inherit;
 }
-#background {
-  width: 375px;
-  height: 667px;
-  
-}
 #card {
   width: 317px;
   height: 495px;
   background-color:#ffffff;
   border-radius:20px;
-  margin-top:60px;
+  margin:0 auto;
+  margin-top:125px;
 }
 img {
   border-radius:10px;
